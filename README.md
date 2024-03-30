@@ -1,9 +1,12 @@
-Blackjack README
+# Blackjack README
 
 
 Welcome to Blackjack, a Python implementation of the classic card game. In this game, you'll face off against the dealer in a battle of luck and strategy, aiming to reach as close to 21 points as possible without going over.
 
 ______________________________________________
+
+# WHAT I HAVE LEARNED!
+
 
 While developing the Blackjack project in Python, I gained several valuable insights and learned important lessons:
 
@@ -26,7 +29,7 @@ Overall, developing the Blackjack project expanded my Python programming skills,
 
 ______________________________________________
 
-How to Play
+# How to Play
 
 
 Installation: Download or clone the repository to your local machine.
